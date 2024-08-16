@@ -9,11 +9,11 @@ const perguntas = [
         enunciado: "Assim que se destacou na base você se depara com propostas de alguns clubes, um de grande expressão e um de menor expressão, Para qual vc vai?,
         alternativas: [
             {
-                texto: "Santos",
+                texto: "Santos!",
                 afirmacao: "Nesse clube você jogará pouco. "
             },
             {
-                texto: "CRB",
+                texto: "CRB!",
                 afirmacao: "Você chega para ser titular, e ser o 10 do time."
             }
         ]
@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "Após vc se destacar você recebeu uma proposta de alguns times da serie A do brasileirão, para qual clube vc iria?",
         alternativas: [
             {
-                texto: "Palmeiras",
+                texto: "Palmeiras!",
                 afirmacao: "Chegou para suprir a saída de algum jogador importante do time."
             },
             {
-                texto: "Atlético-MG",
-                afirmacao: "Disputou posição e não se firmou como titular"
+                texto: "Atlético-MG!",
+                afirmacao: "Disputou posição e não se firmou como titular."
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado:"Após se destacar nesse clube,você recebeu duas propostas de patrocínio, você aceitaria qual empresa de patrocinar"?
         alternativas: [
             {
-                texto: "Adidas",
-                afirmacao: "Você se tornou o cara dessa marca, e ganhou visibilidade e muito dinheiro"
+                texto: "Adidas!",
+                afirmacao: "Você se tornou o cara dessa marca, e ganhou visibilidade e muito dinheiro".
             },
             {
-                texto: "Puma",
-                afirmacao: "Você dividiu sua imagem com o Neymar e não ganhou muito dinheiro"
+                texto: "Puma!",
+                afirmacao: "Você dividiu sua imagem com o Neymar e não ganhou muito dinheiro".
             }
         ]
     },
@@ -48,12 +48,12 @@ const perguntas = [
         enunciado: "Ao final da temporada do Brasileirão, você recebeu algumas propostas de clubes europeus, para qual clube você vai?",
         alternativas: [
             {
-                texto: "Liverpol"
-                afirmacao: "Chegou para ser o cara do time, se destacou bastante e ganhou 1 Premier League"
+                texto: "Liverpol!"
+                afirmacao: "Chegou para ser o cara do time, se destacou bastante e ganhou 1 Premier League".
             },
             {
-                texto: "Bayer Munchen"
-                afirmacao: "Chegou para ser o cara do time, mas não entregou nada e virou reserva no começo da temporada"
+                texto: "Bayer Munchen!"
+                afirmacao: "Chegou para ser o cara do time, mas não entregou nada e virou reserva no começo da temporada".
             }
         ]
     },
@@ -61,12 +61,12 @@ const perguntas = [
         enunciado: "Você está na final da Champions League, você sai cara a cara com o goleiro, o que você faria?",
         alternativas: [
             {
-                texto: "Você tentaria ser ousado, tentava uma cavadinha",
-                afirmacao: "Você errou, prejudicou o time e o seu time perdeu a final"
+                texto: "Você tentaria ser ousado, tentava uma cavadinha!",
+                afirmacao: "Você errou, prejudicou o time e o seu time perdeu a final".
             },
             {
-                texto: "Você fazia o simples, chapava no canto",
-                afirmacao: "Você fez o gol, se tornou o  heroi de um titulo inédito e ao final da temporada se sagrou o melhor jogador do mundo "
+                texto: "Você fazia o simples, chapava no canto!",
+                afirmacao: "Você fez o gol, se tornou o  heroi de um titulo inédito e ao final da temporada se sagrou o melhor jogador do mundo".
             }
         ]
     },
