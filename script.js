@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que se destacou na base você se depara com propostas de alguns clubes, um de grande expressão e um de menor expressão, Para qual vc vai?,
+        enunciado: "Assim que se destacou na base você se depara com propostas de alguns clubes, um de grande expressão e um de menor expressão, Para qual vc vai?",
         alternativas: [
             {
                 texto: "Santos!",
@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado:"Após se destacar nesse clube,você recebeu duas propostas de patrocínio, você aceitaria qual empresa de patrocinar"?
+        enunciado:"Após se destacar nesse clube,você recebeu duas propostas de patrocínio, você aceitaria qual empresa de patrocinar?",
         alternativas: [
             {
                 texto: "Adidas!",
